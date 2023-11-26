@@ -1,2 +1,2 @@
 # NewsApi
-first api project
+First Web API application on C#.
